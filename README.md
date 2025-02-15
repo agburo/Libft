@@ -6,4 +6,4 @@
 - External functs. :  Detailed below
 - Libft authorized :  n/a
 - Description      :  Write your own library: a collection of functions
-                    that will be a useful tool for your cursus.
+                      that will be a useful tool for your cursus.
